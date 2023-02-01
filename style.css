@@ -2,7 +2,7 @@
        height: 200px;
      text-align: center;}
 
-       .welcome{padding-top:75px ;
+       .welcome{padding-top:60px ;
                 margin: 0;
                 font-family: 'Satisfy', cursive;
                 font-size: 3rem;
@@ -42,7 +42,7 @@
                     text-align:center;}
 
                     .front-h1{font-family: 'Tangerine', cursive;
-                                font-size: 70px;
+                                font-size: 65px;
                             padding-top: 150px;}
 
                     .front-h2{font-family: 'Ubuntu', sans-serif;
