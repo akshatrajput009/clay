@@ -1,0 +1,58 @@
+.top{background-color: #FF9E9E;
+       height: 200px;
+     text-align: center;}
+
+       .welcome{padding-top:75px ;
+                margin: 0;
+                font-family: 'Satisfy', cursive;
+                font-size: 3rem;
+               }
+
+
+
+
+        .middle{text-align: center;
+            }
+        .cat-img{width: 30%;
+                 padding: 30px ;
+                 }
+
+
+
+
+            .bottom{background-color: #FF9E9E;
+                height: 200px;
+            position: relative;}
+
+                h3{font-family: 'Montserrat', sans-serif;}
+
+            .contact-link{display: block;
+            padding: 2px;
+        text-decoration: none;
+    color: rgb(104, 96, 96);}
+
+    .fa-brands:hover{color: rgb(250, 76, 105)}
+
+    .contact-div{position: absolute;
+                    bottom: 0;
+                    right: 0;
+                    padding: 20px;}
+
+    .front-body{background-color: #FF9E9E;
+                    text-align:center;}
+
+                    .front-h1{font-family: 'Tangerine', cursive;
+                                font-size: 70px;
+                            padding-top: 150px;}
+
+                    .front-h2{font-family: 'Ubuntu', sans-serif;
+                                font-size:15px;}
+
+                    .front-h3{color: rgb(250, 116, 138);
+                                font-size: 20px;}
+                    
+                                .front-h3:hover{color: rgb(250, 76, 105);
+                                    }
+
+
+            
